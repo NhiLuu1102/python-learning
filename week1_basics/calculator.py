@@ -4,7 +4,7 @@
 #print(a-b)
 #Note: pythoon always gives FLOAT!
 # if we want to exclude the decimal,
-# pritn (a // b) same as int devision
+# print (a // b) same as int devision => give int output
 # power: print (2 ** 3) => 2^3 = 8
 
 a = int(input("Enter 1st num: "))
